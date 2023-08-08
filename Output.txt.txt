@@ -1,0 +1,275 @@
+
+------------------------------------------
+|    PC Builder - Build your Computer    |
+------------------------------------------
+
+Home Page
+
+1. Select Components
+2. Checkout
+
+Press only Enter to exit.
+
+Input:1
+
+
+Select your components (Chronologically recommended)
+
+Core components:
+1. CPU
+2. Motherboard
+3. Ram
+4. SSD
+
+
+Input:1
+
+
+Select your desired CPU
+
+1.
+Model: Core i3-12100
+Socket Type: LGA1700
+Price: 13300 BDT
+2.
+Model: Core i3-13100
+Socket Type: LGA1700
+Price: 16500 BDT
+3.
+Model: Core i5-12400
+Socket Type: LGA1700
+Price: 20000 BDT
+4.
+Model: Core i5-13400
+Socket Type: LGA1700
+Price: 26500 BDT
+5.
+Model: Core i5-13600K
+Socket Type: LGA1700
+Price: 36000 BDT
+6.
+Model: Core i7-12700
+Socket Type: LGA1700
+Price: 32500 BDT
+7.
+Model: Core i7-12700K
+Socket Type: LGA1700
+Price: 43500 BDT
+8.
+Model: Core i7-13700
+Socket Type: LGA1700
+Price: 44000 BDT
+
+5
+CPU selected successfully.
+Press Enter to continue.
+
+
+------------------------------------------
+|    PC Builder - Build your Computer    |
+------------------------------------------
+
+Select your components (Chronologically recommended)
+
+Core components:
+1. CPU
+2. Motherboard
+3. Ram
+4. SSD
+
+CPU: Core i5-13600K
+
+Input:2
+
+------------------------------------------
+|    PC Builder - Build your Computer    |
+------------------------------------------
+
+Select your desired Motherboard
+
+1.
+Model:  PRO H510M-B
+Socket Type: LGA1200
+Price: 8900 BDT
+2.
+Model: Gigabyte B560M DS3H AC
+Socket Type: LGA1200
+Price: 13800 BDT
+3.
+Model: Gigabyte H610M H
+Socket Type: LGA1700
+Price: 9900 BDT
+4.
+Model: ASRock B660M PHANTOM GAMING 4
+Socket Type: LGA1700
+Price: 15000 BDT
+
+
+3
+Motherboard selected successfully.
+Press Enter to continue.
+
+------------------------------------------
+|    PC Builder - Build your Computer    |
+------------------------------------------
+
+
+Select your components (Chronologically recommended)
+
+Core components:
+1. CPU
+2. Motherboard
+3. Ram
+4. SSD
+
+CPU: Core i5-13600K
+Motherboard: Gigabyte H610M H
+
+Input:3
+
+
+------------------------------------------
+|    PC Builder - Build your Computer    |
+------------------------------------------
+
+Select your desired RAM
+
+1.
+Model: Adata Premier 4GB
+Capacity: 4
+Price: 1475 BDT
+2.
+Model: Kingston 4GB
+Capacity: 4
+Price: 2000 BDT
+3.
+Model: G.Skill 8GB
+Capacity: 8
+Price: 2400 BDT
+4.
+Model: Corsair Vengeance LPX
+Capacity: 8
+Price: 2500 BDT
+
+Select:1
+Quantity:3
+Do you want to select more (Y/y for yes): N
+
+
+------------------------------------------
+|    PC Builder - Build your Computer    |
+------------------------------------------
+
+
+Select your components (Chronologically recommended)
+
+Core components:
+1. CPU
+2. Motherboard
+3. Ram
+4. SSD
+
+CPU: Core i5-13600K
+Motherboard: Gigabyte H610M H
+RAM: Adata Premier 4GB
+RAM: Adata Premier 4GB
+RAM: Adata Premier 4GB
+
+Input:4
+
+
+------------------------------------------
+|    PC Builder - Build your Computer    |
+------------------------------------------
+
+Select your desired SSD
+
+1.
+Model:  N600S 128GB
+Capacity: 128
+Price: 1625 BDT
+2.
+Model: Western Digital Green
+Capacity: 240
+Price: 1900 BDT
+3.
+Model: Western Digital Blue SN550
+Capacity: 250
+Price: 3950 BDT
+4.
+Model: Biwintech NX500
+Capacity: 512
+Price: 4100 BDT
+
+Select: 4
+Quantity: 2
+Do you want to select more (Y/y for yes): Y
+Select: 1
+Quantity: 1
+Do you want to select more (Y/y for yes): N
+
+
+------------------------------------------
+|    PC Builder - Build your Computer    |
+------------------------------------------
+
+
+Select your components (Chronologically recommended)
+
+Core components:
+1. CPU
+2. Motherboard
+3. Ram
+4. SSD
+
+CPU: Core i5-13600K
+Motherboard: Gigabyte H610M H
+RAM: Adata Premier 4GB
+RAM: Adata Premier 4GB
+RAM: Adata Premier 4GB
+SSD: Biwintech NX500
+SSD: Biwintech NX500
+SSD:  N600S 128GB
+
+Input: "Enter"
+
+
+------------------------------------------
+|    PC Builder - Build your Computer    |
+------------------------------------------
+
+Home Page
+
+1. Select Components
+2. Checkout
+
+Press only Enter to exit.
+
+Input: 2
+
+
+------------------------------------------
+|    PC Builder - Build your Computer    |
+------------------------------------------
+
+Your Cart:
+CPU: Core i5-12400      Price: 20000 BDT
+Motherboard: ASRock B660M PHANTOM GAMING 4      Price: 15000 BDT
+RAM: G.Skill 8GB        Price: 2400 BDT
+RAM: G.Skill 8GB        Price: 2400 BDT
+RAM: G.Skill 8GB        Price: 2400 BDT
+RAM: G.Skill 8GB        Price: 2400 BDT
+SSD: Biwintech NX500    Price: 4100 BDT
+
+Total Cost: 48700 BDT
+
+Do you want to confirm your purchase order?(Y/y for yes and you can't go back): Y
+Do you have any coupon code(Y/y for yes): Y
+Enter code: Dc2005
+Purchase complete. Press Enter to exit.
+
+
+Process returned 0 (0x0)   execution time : 1379.776 s
+Press any key to continue.
+
+
